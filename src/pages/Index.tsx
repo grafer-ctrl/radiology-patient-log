@@ -35,10 +35,10 @@ const Index = () => {
             <Activity className="h-8 w-8 text-white" />
           </div>
           <h1 className="text-4xl font-bold mb-2 bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-            Sistem Manajemen Radiologi
+            LogBook Radiologi
           </h1>
           <p className="text-muted-foreground text-lg">
-            Kelola data pemeriksaan radiologi dengan mudah dan efisien
+            Data Lengkap Pemeriksaan Radiologi
           </p>
         </div>
 
